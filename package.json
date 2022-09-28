@@ -1,0 +1,22 @@
+{
+  "name": "mydata",
+  "version": "1.0.0",
+  "description": "this is an API that contains data about me, about my goals and hobbies",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "me",
+    "metas",
+    "business"
+  ],
+  "author": "Douglas",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.20"
+  }
+}
